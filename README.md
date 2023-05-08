@@ -1,4 +1,4 @@
-# To view the data analysis report, see [here](https://github.com/willcpo/trigram-hmm-sequence-tagging/blob/538d381fc8aef86dead2360a076d86c16fde37d3/data-report.pdf) #
+# To view the data analysis report, see [here](https://github.com/williamcpowers8/trigram-hmm-sequence-tagging/blob/main/data-report.pdf) #
 
 *The code must be run from the top directory for the subprocess modules to accurately call scripts.*
 
